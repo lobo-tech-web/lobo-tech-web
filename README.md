@@ -34,7 +34,7 @@ Si estás listo para llevar tu presencia digital al siguiente nivel, en **LoboTe
 ### Contacto
 
 - **Email**: [lobotech.bb@gmail.com](mailto:tuemail@lobo-tech.com)
-- **Sitio web**: [www.lobo-tech.com](http://www.lobo-tech.com) *(si tienes uno)*
+- **Sitio web**: [www.lobo-tech.com](http://www.lobo-tech.com.ar)
 
 ## Tecnologías que Usamos
 
