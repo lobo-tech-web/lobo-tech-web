@@ -33,16 +33,14 @@ Si estás listo para llevar tu presencia digital al siguiente nivel, en **LoboTe
 
 ### Contacto
 
-- **Email**: [tuemail@lobo-tech.com](mailto:tuemail@lobo-tech.com)
+- **Email**: [lobotech.bb@gmail.com](mailto:tuemail@lobo-tech.com)
 - **Sitio web**: [www.lobo-tech.com](http://www.lobo-tech.com) *(si tienes uno)*
-- **LinkedIn**: [LoboTech](https://linkedin.com/in/lobotech) *(si tienes un perfil profesional)*
 
 ## Tecnologías que Usamos
 
 - **HTML5**, **CSS3**, **JavaScript**
-- **Node.js**, **React**, **Vue.js**
-- **WordPress**, **Shopify**
-- **SEO Tools** y **Google Analytics**
+- **Node.js**, **React**
+- **PostgreSQL**
 
 ## ¿Por Qué el Nombre "LoboTech"?
 
